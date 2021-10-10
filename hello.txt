@@ -7,7 +7,7 @@ hello,world
 hello,world rick do it
 hello,world
 hello,world
-hello,world master don't do it and rick don't do it
+hello,world master don't do it and rick don't do it and morty do it
 
 hello github
 test pull

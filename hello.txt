@@ -8,7 +8,7 @@ hello,world rick do it
 hello,world
 hello,world
 hello,world master don't do it and rick don't do it and morty do it
-sBBBBBB
+scccccc
 hello github
 test pull
 test ssh 20211009

@@ -19,3 +19,4 @@ rick do it
 branch test
 github 20210101 test
 summer do it 
+ssh test
